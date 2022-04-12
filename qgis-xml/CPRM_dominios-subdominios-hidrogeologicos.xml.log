@@ -1,0 +1,110 @@
+Versão do QGIS: 3.16.16-Hannover
+Código de revisão do QGIS: f5778a89df
+Versão do Qt: 5.11.2
+Versão do GDAL: 3.1.4
+Versão do GEOS: 3.8.1-CAPI-1.13.3
+Versão do PROJ: Rel. 6.3.2, May 1st, 2020
+SLYR (community edition) versão: 4.0.0
+Algoritmo de processamento...
+Algoritmo 'Convert ESRI style to QGIS style XML' iniciando…
+Entrada de parâmetros:
+{ 'INPUT' : 'C:\\Users\\Mota\\Downloads\\simbologia-geosgb\\bibliotecas\\Dominios_e_Subdominios_Hidrogeologicos_2007\\release\\CPRM_dominios-subdominios-hidrogeologicos_2007.style', 'OUTPUT' : 'C:\\Users\\Mota\\Downloads\\simbologia-geosgb\\bibliotecas\\Dominios_e_Subdominios_Hidrogeologicos_2007\\release\\CPRM_dominios-subdominios-hidrogeologicos_2007.xml' }
+
+Importing Fill symbols from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Dominios_e_Subdominios_Hidrogeologicos_2007\release\CPRM_dominios-subdominios-hidrogeologicos_2007.style
+Found 36 symbols of type "Fill symbols"
+
+
+1/36: Aluviões
+2/36: Araguaia
+3/36: Bacia Pernambuco/Paraíba
+4/36: Bacia Potiguar
+5/36: Bacia Sergipe/Alagoas
+6/36: Bacia de Pimenta Bueno
+7/36: Bacia do Acre
+8/36: Bacia do Alto Tapajós
+9/36: Bacia do Amazonas
+10/36: Bacia do Araripe
+11/36: Bacia do Jatobá
+12/36: Bacia do Paraná
+13/36: Bacia do Parnaíba
+14/36: Bacia do Recôncavo
+15/36: Bacia do Tacutú
+16/36: Bacia do Tucano
+17/36: Bacia do Urucuia
+18/36: Bacia dos Parecis
+19/36: Bacia indiferenciada
+20/36: Bacia tipo Jaibaras
+21/36: Bacia tipo Rio do Peixe
+22/36: Bacia tipo Taubaté
+23/36: Boa Vista
+24/36: Cristalino
+25/36: Depósitos eólicos
+26/36: Depósitos litorâneos
+27/36: Depósitos tipo Barreiras
+28/36: Formações cenozóicas indiferenciadas
+29/36: Içá
+30/36: Marajó
+31/36: Metassedimentos-Metavulcânicas
+32/36: Pantanal
+33/36: Poroso/Fissural
+34/36: Ronuro
+35/36: Solimões
+36/36: Vulcânicas
+Importing Line symbols from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Dominios_e_Subdominios_Hidrogeologicos_2007\release\CPRM_dominios-subdominios-hidrogeologicos_2007.style
+Found 0 symbols of type "Line symbols"
+
+
+Importing Marker symbols from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Dominios_e_Subdominios_Hidrogeologicos_2007\release\CPRM_dominios-subdominios-hidrogeologicos_2007.style
+Found 0 symbols of type "Marker symbols"
+
+
+Importing Color ramps from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Dominios_e_Subdominios_Hidrogeologicos_2007\release\CPRM_dominios-subdominios-hidrogeologicos_2007.style
+Found 0 symbols of type "Color ramps"
+
+
+Importing Line Patches from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Dominios_e_Subdominios_Hidrogeologicos_2007\release\CPRM_dominios-subdominios-hidrogeologicos_2007.style
+Found 0 symbols of type "Line Patches"
+
+
+Importing Area Patches from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Dominios_e_Subdominios_Hidrogeologicos_2007\release\CPRM_dominios-subdominios-hidrogeologicos_2007.style
+Found 0 symbols of type "Area Patches"
+
+
+Importing Text Symbols from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Dominios_e_Subdominios_Hidrogeologicos_2007\release\CPRM_dominios-subdominios-hidrogeologicos_2007.style
+Found 1 symbols of type "Text Symbols"
+
+
+1/1: Dominios
+Importing Labels from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Dominios_e_Subdominios_Hidrogeologicos_2007\release\CPRM_dominios-subdominios-hidrogeologicos_2007.style
+Found 1 symbols of type "Labels"
+
+
+1/1: Dominios
+Corrected to unique name of Dominios_1
+Importing Maplex Labels from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Dominios_e_Subdominios_Hidrogeologicos_2007\release\CPRM_dominios-subdominios-hidrogeologicos_2007.style
+Found 0 symbols of type "Maplex Labels"
+
+
+Tarefa executada em 3.20 segundos
+Resultados:
+{'AREA_PATCH_COUNT': 0,
+'COLOR_RAMP_COUNT': 0,
+'FILL_SYMBOL_COUNT': 36,
+'LABEL_SETTINGS_COUNT': 1,
+'LINE_PATCH_COUNT': 0,
+'LINE_SYMBOL_COUNT': 0,
+'MARKER_SYMBOL_COUNT': 0,
+'OUTPUT': 'C:\\Users\\Mota\\Downloads\\simbologia-geosgb\\bibliotecas\\Dominios_e_Subdominios_Hidrogeologicos_2007\\release\\CPRM_dominios-subdominios-hidrogeologicos_2007.xml',
+'REPORT': '',
+'TEXT_FORMAT_COUNT': 1,
+'UNREADABLE_AREA_PATCHES': 0,
+'UNREADABLE_COLOR_RAMPS': 0,
+'UNREADABLE_FILL_SYMBOLS': 0,
+'UNREADABLE_LABEL_SETTINGS': 0,
+'UNREADABLE_LINE_PATCHES': 0,
+'UNREADABLE_LINE_SYMBOLS': 0,
+'UNREADABLE_MARKER_SYMBOLS': 0,
+'UNREADABLE_TEXT_FORMATS': 0}
+
+Carregando camada resultante
+Algoritmo 'Convert ESRI style to QGIS style XML' finalizado
