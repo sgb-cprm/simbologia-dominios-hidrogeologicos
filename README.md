@@ -12,6 +12,24 @@ O processo de conversão para QGIS Style foi realizado através do plugin SLYR v
 
 Caso seja encontrado algum erro ou inconsistência na biblioteca, pedimos a gentileza que nos reporte o problema a partir dos canais oficiais da SGB/CPRM ou via contato direto com os autores.
 
+## Organização do Conteúdo
+
+### Diretório `esri-style`
+
+Este diretório contém o arquivo de estilos para o ESRI ArcGIS Desktop (.style). Originalmente, e por questões de legado, as tabelas de cores e símbolos são confeccionadas nesta plataforma.
+
+### Diretório `qgis-xml`
+
+Este diretório contém o arquivo de estilos para o QGIS (.xml). Como este arquivo, por enquanto, é obtido a partir de conversão dos originais em .style, também é disponibilizado o log de execução da conversão da biblioteca para o formato do QGIS.
+
+## Instalação da Biblioteca de Estilos
+
+Veja no arquivo README.md dos diretórios `esri-style` e `qgis-xml` as páginas de documentação para instalação das bibliotecas.
+
+Se as bibliotecas dependerem de arquivos de fontes para renderizar os símbolos corretamente, é necessário fazer a instalação dos arquivos de fonte .OTF antes de iniciar o software de GIS/SIG.
+
+Para instalação de fontes no Windows, [veja este link](https://support.microsoft.com/pt-br/office/adicionar-uma-fonte-b7c5f17c-4426-4b53-967f-455339c564c1).
+
 ## Disclaimer
 
 Copyright © 2022, Serviço Geológico do Brasil/CPRM
