@@ -1,4 +1,4 @@
-# Biblioteca de Estilos para Mapas Temáticos da SGB/CPRM para ArcGIS 10.x e QGIS 3.x: Unidades Litoestratigráficas
+# Biblioteca de Estilos para Mapas Temáticos da SGB/CPRM para ArcGIS 10.x e QGIS 3.x: Domínios Hidrogeológicos
 
 - Elias Bernard S. do Espirito Santo <elias.bernard@cprm.gov.br>
 - Carlos Eduardo Miranda Mota <carlos.mota@cprm.gov.br>
